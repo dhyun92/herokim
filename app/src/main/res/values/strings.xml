@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomNavi</string>
+    <string name="title_musicvideo">Music</string>
+    <string name="title_artist">Artist</string>
+</resources>

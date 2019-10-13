@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_musicvideo"
+        android:icon="@drawable/ic_music_video_black_24dp"
+        android:title="@string/title_musicvideo" />
+
+    <item
+        android:id="@+id/navigation_artist"
+        android:icon="@drawable/ic_artist_black_24dp"
+        android:title="@string/title_artist" />
+
+</menu>
